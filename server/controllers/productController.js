@@ -1,6 +1,6 @@
 
 import Product from "../config/models/Product.js";
-import Product from "../models/Product.js";
+
 
 
 export const getProducts = async (req, res) => {
