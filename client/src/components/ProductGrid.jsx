@@ -1,4 +1,4 @@
-import ProductCard from "./Productcard";
+import ProductCard from "./ProductCard.jsx";
 
 function ProductGrid({ products, showActions = false, onEdit, onDelete }) {
   if (products.length === 0) {
